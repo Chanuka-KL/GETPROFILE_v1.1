@@ -26,7 +26,7 @@ pip install Faker
 
 1. Clone the repository or download the script:
    ```clone
-   link
+   https://github.com/Chanuka-KL/GETPROFILE_v1.1.git
    ```
 
 3. Open a terminal and navigate to the directory where the script is located.
