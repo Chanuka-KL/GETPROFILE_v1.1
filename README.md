@@ -1,3 +1,5 @@
+![icon](https://raw.githubusercontent.com/Chanuka-KL/Assets/refs/heads/main/20241005_002420.png?token=GHSAT0AAAAAACYNVWTAA77ARDG64WNCRJAEZYAHLCQ)
+
 # GETPROFILE_v1.1 🎉
 
 ## Overview 🌟
@@ -52,7 +54,7 @@ After execution, a CSV file named `profiles.csv` will be created in the same dir
 
 ## Author ✍️
 
-This script was created by **[Chanuka-KL]**. 
+This script was created by **Chanuka-KL**. 
 
 ## License 📄
 
