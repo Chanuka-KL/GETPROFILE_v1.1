@@ -33,7 +33,7 @@ if __name__ == "__main__":
     try:
         count = int(input("How many profiles would you like to generate? "))
         profiles = [generate_profile() for _ in range(count)]
-        filename = input("Enter the filename to save profiles (e.g., profiles.cs>
+        filename = input("Enter the filename to save profiles (e.g., profiles.cs>")
         save_profiles_to_csv(profiles, filename)
     except ValueError:
         print("Please enter a valid number.")
